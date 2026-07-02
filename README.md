@@ -10,8 +10,8 @@ Après cinq ans en PME où j'ai évolué vers un rôle de responsable informatiq
 
 - **ERP** : Microsoft Business Central (langage AL en apprentissage) · Odoo (en exploration)
 - **Data** : SQL · PostgreSQL · ETL · Power BI · Power Query
-- **Dev & automatisation** : Python, VBA :)
-- **Web** : WordPress · HTML/CSS · gestion d'hébergement
+- **Dev & automatisation** : Python, VBA :), Power automate
+- **Web** : Vue.js · HTML/CSS/JS · gestion d'hébergement
 
 ## 🚧 En ce moment
 
