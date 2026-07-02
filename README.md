@@ -19,7 +19,7 @@ Je construis mon portfolio autour de ce qui me passionne :
 
 - **Extension AL pour Business Central** — pour aller au-delà du paramétrage et plonger dans le développement.
 - **Projets Odoo** — je me penche sur l'écosystème Odoo, qui colle bien à mon affinité Python/PostgreSQL.
-- **Pipeline** ETL en Python ** — extraction, transformation et chargement de données publiques vers PostgreSQL.
+- **Pipeline** ETL en Python — extraction, transformation et chargement de données.
 
 ## 📫 Contact
 
