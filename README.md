@@ -9,8 +9,8 @@ Après cinq ans en PME où j'ai évolué vers un rôle de responsable informatiq
 ## 🔧 Ce que j'utilise
 
 - **ERP** : Microsoft Business Central (langage AL en apprentissage) · Odoo (en exploration)
-- **Data** : SQL · PostgreSQL · ETL (Apache Hop) · Power BI · Power Query
-- **Dev & automatisation** : Python
+- **Data** : SQL · PostgreSQL · ETL · Power BI · Power Query
+- **Dev & automatisation** : Python, VBA :)
 - **Web** : WordPress · HTML/CSS · gestion d'hébergement
 
 ## 🚧 En ce moment
@@ -19,7 +19,7 @@ Je construis mon portfolio autour de ce qui me passionne :
 
 - **Extension AL pour Business Central** — pour aller au-delà du paramétrage et plonger dans le développement.
 - **Projets Odoo** — je me penche sur l'écosystème Odoo, qui colle bien à mon affinité Python/PostgreSQL.
-- **Pipeline ETL en Python / Apache Hop** — extraction, transformation et chargement de données publiques vers PostgreSQL.
+- **Pipeline ETL en Python ** — extraction, transformation et chargement de données publiques vers PostgreSQL.
 
 ## 📫 Contact
 
