@@ -18,6 +18,7 @@ Je construis mon portfolio autour de ce qui me passionne :
  
 - **Extension AL pour Business Central** — pour aller au-delà du paramétrage et plonger dans le développement.
 - **Projets Odoo** — je me penche sur l'écosystème Odoo, qui colle bien à mon affinité Python/PostgreSQL.
+- **Sites web** — projets en JavaScript/Vue.js et sites statiques en JAMstack (Decap CMS), que j'héberge et maintiens de bout en bout.
 - **Pipeline ETL en Python** — extraction, transformation et chargement de données.
 ## 📫 Contact
  
